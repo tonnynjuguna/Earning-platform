@@ -1,1 +1,1 @@
-# Earning-platform
+# steady-meerkat
